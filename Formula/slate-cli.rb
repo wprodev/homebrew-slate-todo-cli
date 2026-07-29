@@ -1,10 +1,10 @@
 class SlateCli < Formula
   desc "Command-line client for Slate (slatetodo.com)"
   homepage "https://github.com/wprodev/slate-todo-cli"
-  url "https://cli.slatetodo.com/download/releases/0.4.0/slate-cli-0.4.0.tar.gz"
-  sha256 "ac63a7617299922f152b7e7a6498963eaabf06f6e6e0515dd7a32453efc7b47b"
+  url "https://cli.slatetodo.com/download/releases/0.5.0/slate-cli-0.5.0.tar.gz"
+  sha256 "9c9627b824b9f332ad55da1ef35042031e213f2ed3c7e3ca5153684245067e43"
   license "MIT"
-  version "0.4.0"
+  version "0.5.0"
 
   depends_on "node"
 
